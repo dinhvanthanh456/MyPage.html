@@ -10,7 +10,7 @@
       tôi tên: Đinh Văn Thanh
     </h1>
     <h1>
-      nghề nghiệp: sinh 
+      nghề nghiệp: sinh viên
     </h1>
     <h1>
       Đang học tại trường cao đẳng kỹ thuật công nghệ nha trang
